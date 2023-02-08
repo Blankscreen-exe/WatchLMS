@@ -28,12 +28,11 @@
 Frontend:
 - React.js
 - Redux
-- 
 
 Backend:
-- Express.js
+- Django
+- Django-Rest-Framework
 - MongoDB
-- GraphQL
 
 ## Launch
 
